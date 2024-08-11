@@ -5,4 +5,4 @@ def show_result(score, total_questions, pass_mark):
     if score >= pass_mark:
         print("Congratulations! You passed the quiz.")
     else:
-        print("You failed the quiz. Better luck next time.")
+        print("You failed the quiz. Try next time.")
