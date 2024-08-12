@@ -75,8 +75,10 @@ pull request for any features, enhancements, or bug fixes. Ensure that your code
 follows the project's style guide and is thoroughly tested.
 
 AUTHORS
-Kwagfan Aondover Amos - Initial work - User ID-24834
-Contributor Name - Additional features - contributor-username
+1. Kwaghfan, Aondover Amos
+2. Ogu Ifeanyi Kingsley
+3. Valentine Cheluchi
+4. Olabode Goodness
 
 This README provides an overview of the repository, instructions on how to set up and
 run the quiz, and details about the modules and contributors. It serves as a 
